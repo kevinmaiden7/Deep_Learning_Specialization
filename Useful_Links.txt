@@ -1,3 +1,8 @@
 https://towardsdatascience.com/the-non-technical-guide-to-artificial-intelligence-e9e5da1a15c5?gi=52428bb72a80
 https://numpy.org/doc/stable/reference/generated/numpy.maximum.html
 https://stackoverflow.com/questions/43042793/download-all-files-in-a-path-on-jupyter-notebook-server
+https://www.coursera.org/learn/deep-neural-network/discussions/weeks/1/threads/WjZbm48FSlS2W5uPBdpU3w
+https://www.coursera.org/learn/deep-neural-network/discussions/weeks/1/threads/HwEaNZ02EeeqRBKywIksAA
+https://www.coursera.org/learn/deep-neural-network/discussions/weeks/1/threads/uKrLdelsEeeAHw57mqaJHg
+
+
