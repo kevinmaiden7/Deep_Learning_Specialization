@@ -4,5 +4,7 @@ https://stackoverflow.com/questions/43042793/download-all-files-in-a-path-on-jup
 https://www.coursera.org/learn/deep-neural-network/discussions/weeks/1/threads/WjZbm48FSlS2W5uPBdpU3w
 https://www.coursera.org/learn/deep-neural-network/discussions/weeks/1/threads/HwEaNZ02EeeqRBKywIksAA
 https://www.coursera.org/learn/deep-neural-network/discussions/weeks/1/threads/uKrLdelsEeeAHw57mqaJHg
+https://towardsdatascience.com/understanding-rmsprop-faster-neural-network-learning-62e116fcf29a
+
 
 
